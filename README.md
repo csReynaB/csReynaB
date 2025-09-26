@@ -1,3 +1,5 @@
+![banner](assets/banner.png)
+
 # 👋 Hi, I’m Carlos S. Reyna-Blanco
 
 🔬 Postdoc in **Bioinformatics** @ Medical University of Vienna (Vogl Lab)  
@@ -27,5 +29,10 @@
 ---
 
 ## 🌐 Connect
-[![Website](https://img.shields.io/badge/Website-Bioinformatics-blue?logo=google-chrome&logoColor=white)](https://csreynab.github.io/)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=google-scholar&logoColor=_)]()
+[![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4zAoHJX3nHBWmwZHu5zLEnqntTJ8Y4e08jI6LiU4QGTIMX-re-vfPHh0djw13w9ciSnjHSWLFf9BCyQRGaYE6otIBAhxprPymnrWPKo&user=fGA7sS0AAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/csreynab/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--000X--XXXX--XXXX-A6CE39?logo=orcid)](https://orcid.org/0000-0002-7104-1446)
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CF71C&width=435&lines=PhIP-Seq+Bioinformatics;Machine+Learning+%7C+Survival+Models;Open+Science+Enthusiast)](https://git.io/typing-svg)
