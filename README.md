@@ -23,8 +23,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/csReynaB/github-readme-stats)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=csReynaB&&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csReynaB&&layout=donut)](https://github.com/csReynaB/github-readme-stats)
 ![Snake animation](https://raw.githubusercontent.com/csReynaB/csReynaB/output/snake.svg)
 
 
