@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Carlos S. Reyna-Blanco
+# 👋 Hi, I’m Carlos
 
 🔬 Postdoc in **Bioinformatics** @ Medical University of Vienna (Vogl Lab)  
 🧪 Focus: Omic analysis, biomedical research, PhIP-Seq antibody repertoires, ML pipelines  
@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 Current Work
-- 🧠 Machine learning (XGBoost, SHAP, survival models)  
 - 📊 PhIP-Seq pipelines for large disease cohorts  
+- 🧠 Machine learning (XGBoost/Random Forest, SHAP, survival models)  
 - 📦 Open-source tools: [phipseq_report-generator](https://github.com/csReynaB/phipseq_report-generator); [phiper](https://github.com/csReynaB/phiper)
 
 ---
@@ -16,7 +16,6 @@
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![R](https://img.shields.io/badge/R-ggplot2%2Ftidyverse-276DC3?logo=r)
-![XGBoost](https://img.shields.io/badge/XGBoost-ML-orange)
 ![Snakemake](https://img.shields.io/badge/Snakemake-Workflows-green)
 ![Linux](https://img.shields.io/badge/Linux-Cluster-333?logo=linux)
 
