@@ -1,4 +1,3 @@
-![banner](assets/banner.png)
 
 # 👋 Hi, I’m Carlos S. Reyna-Blanco
 
@@ -10,7 +9,7 @@
 ## 🚀 Current Work
 - 🧠 Machine learning (XGBoost, SHAP, survival models)  
 - 📊 PhIP-Seq pipelines for large disease cohorts  
-- 📦 Open-source tools: [phipseq_report-generator](https://github.com/csReynaB/phipseq_report-generator)
+- 📦 Open-source tools: [phipseq_report-generator](https://github.com/csReynaB/phipseq_report-generator); [phipseq_report-generator](https://github.com/csReynaB/phipseq_report-generator)
 
 ---
 
@@ -25,6 +24,7 @@
 
 ## 📈 GitHub Stats
 ![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=csReynaB&show_icons=true&theme=tokyonight)
+![Snake animation](https://github.com/csReynaB/csReynaB/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
