@@ -2,14 +2,14 @@
 # 👋 Hi, I’m Carlos
 
 🔬 Postdoc in **Bioinformatics** @ Medical University of Vienna (Vogl Lab)  
-🧪 Focus: Omic analysis, biomedical research, PhIP-Seq antibody repertoires, ML pipelines  
+🧪 Focus: Omic analysis, biomedical research, data processing & ML pipelines
 
 ---
 
 ## 🚀 Current Work
-- 📊 PhIP-Seq pipelines for large disease cohorts  
-- 🧠 Machine learning (XGBoost/Random Forest, SHAP, survival models)  
-- 📦 Open-source tools: [phipseq_report-generator](https://github.com/csReynaB/phipseq_report-generator); [phiper](https://github.com/csReynaB/phiper)
+- 📊 PhIP-Seq pipelines for diverse control/case cohorts  
+- 🧠 Machine learning and statistical analysis (XGBoost/Random Forest, SHAP, survival models, LMMs)  
+- 📦 Open-source tools: [snakemake_phipseq_rawData_processing](https://github.com/csReynaB/snakemake_phipseq_rawData_processing); [phipseq_report-generator](https://github.com/csReynaB/phipseq_report-generator); [phiper](https://github.com/csReynaB/phiper)
 
 ---
 
