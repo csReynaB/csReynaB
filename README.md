@@ -9,7 +9,7 @@
 ## 🚀 Current Work
 - 📊 PhIP-Seq pipelines for diverse control/case cohorts  
 - 🧠 Machine learning and statistical analysis (XGBoost/Random Forest, SHAP, survival models, LMMs)  
-- 📦 Open-source tools: [phipseq-survival](https://github.com/csReynaB/phipseq-survival);[phipseq_report-generator](https://github.com/csReynaB/phipseq_report-generator); [phiper](https://github.com/csReynaB/phiper)
+- 📦 Open-source tools: [phipseq_report-generator](https://github.com/csReynaB/phipseq_report-generator); [phipml](https://github.com/csReynaB/phipml); [phipsurv](https://github.com/csReynaB/phipsurv); [phiper](https://github.com/csReynaB/phiper)
 
 ---
 
