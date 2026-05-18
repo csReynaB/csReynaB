@@ -9,7 +9,7 @@
 ## 🚀 Current Work
 - 📊 High-throughput serological profiling pipelines for diverse control/case cohorts  
 - 🧠 Machine learning and statistical analysis (XGBoost/Random Forest, SHAP, survival models, LMMs)  
-- 📦 My current open-source tools: [phipseq_report-generator](https://github.com/csReynaB/phipseq_report-generator); [phipml](https://github.com/csReynaB/phipml); [phipsurv](https://github.com/csReynaB/phipsurv); [phiper](https://github.com/csReynaB/phiper)
+- 📦 My current open-source tools: [phipflow](https://github.com/csReynaB/phipflow); [phipseq_report-generator](https://github.com/csReynaB/phipseq_report-generator); [phipml](https://github.com/csReynaB/phipml); [phipsurv](https://github.com/csReynaB/phipsurv); [phiper](https://github.com/csReynaB/phiper)
 
 ---
 
