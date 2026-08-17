@@ -34,8 +34,6 @@
 
 ---
 
----
-
 ## 🐍 Contributions
 
 <p align="center">
