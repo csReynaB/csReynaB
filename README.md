@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csReynaB&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=transparent" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=csReynaB&show_icons=true&theme=transparent&hide_rank=true" height="165">
+  <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
 </p>
 
 ---
