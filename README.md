@@ -20,14 +20,6 @@
 ![Snakemake](https://img.shields.io/badge/Snakemake-Workflows-green)
 ![Linux](https://img.shields.io/badge/Linux-Cluster-333?logo=linux)
 
----
-
-## 📈 GitHub Stats
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=csReynaB&&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csReynaB&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Snake animation](https://raw.githubusercontent.com/csReynaB/csReynaB/output/snake.svg)
-
-
 
 ---
 
