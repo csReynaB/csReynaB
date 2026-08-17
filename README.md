@@ -9,15 +9,15 @@
 ## 🚀 Current Work
 - 📊 High-throughput serological profiling pipelines for diverse control/case cohorts  
 - 🧠 Machine learning and statistical analysis (XGBoost/Random Forest, SHAP, survival models, LMMs)  
-- 📦 My current open-source tools: [phipflow](https://github.com/csReynaB/phipflow); [phipseq_report-generator](https://github.com/csReynaB/phipseq_report-generator); [phipml](https://github.com/csReynaB/phipml); [phipsurv](https://github.com/csReynaB/phipsurv); [phiper](https://github.com/csReynaB/phiper)
+- 📦 My current open-source tools: [phipml](https://github.com/csReynaB/phipml); [phipflow](https://github.com/csReynaB/phipflow); [phipsurv](https://github.com/csReynaB/phipsurv); [phiper](https://github.com/csReynaB/phiper)
 
 ---
 
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![R](https://img.shields.io/badge/R-ggplot2%2Ftidyverse-276DC3?logo=r)
-![Snakemake](https://img.shields.io/badge/Snakemake-Workflows-green)
 ![NextFlow](https://img.shields.io/badge/Nextflow-Workflows-green)
+![Snakemake](https://img.shields.io/badge/Snakemake-Workflows-green)
 ![Linux](https://img.shields.io/badge/Linux-Cluster-333?logo=linux)
 
 ---
