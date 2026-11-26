@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Carlos
 
 🔬 Open to positions in Science and Business
+
 🧪 Focus: Omics analysis, biomedical research, data analysis and processing, ML pipelines
 
 ---
